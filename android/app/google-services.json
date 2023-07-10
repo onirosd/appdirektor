@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "578610636419",
+    "project_id": "direkapp-a48a8",
+    "storage_bucket": "direkapp-a48a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578610636419:android:760a732ebdc03f73a35db6",
+        "android_client_info": {
+          "package_name": "com.example.direkapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578610636419-k348dcomudlksqrsrpgv2htollo3r7jh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmNPkK5e96EYLTkrxZ_gGDYtVsdRB3Zbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578610636419-k348dcomudlksqrsrpgv2htollo3r7jh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

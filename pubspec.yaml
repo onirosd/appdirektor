@@ -1,0 +1,26 @@
+name: direkapp
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+
+dependencies:
+  firebase_core: ^2.14.0
+  firebase_messaging: ^14.6.4
+  flutter:
+    sdk: flutter
+  flutter_local_notifications: ^15.1.0+1
+  cupertino_icons: ^1.0.2
+  shared_preferences: ^2.0.17
+  provider: ^6.0.5
+  http: ^0.13.5
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
